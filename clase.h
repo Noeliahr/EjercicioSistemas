@@ -7,5 +7,6 @@ protected:
 public:
 	clase();
 	~clase();
+	void setLado(int lado);
 	
 };
